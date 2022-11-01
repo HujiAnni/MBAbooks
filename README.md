@@ -27,7 +27,7 @@ Subjects:
 <br/>
 
 <div id="Strategy" class="BookCard">
-  <h1>Zero to One</h1>
+  <h2>Zero to One</h2>
   <h4>by Peter Thiel and Blake Masters</h4>
   <h6>Subject: Strategy</h6>
   <p>Lessons:
