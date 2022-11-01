@@ -111,7 +111,7 @@ Subjects:
  <br/>
  
  <div id="SystemsThinking" class="BookCard">
-  <h1>Thinking in Systems</h1>
+  <h2>Thinking in Systems</h2>
   <h4>by Donella Meadows</h4>
   <h6>Subject: Systems Thinking</h6>
   <p>Lessons:
@@ -184,7 +184,7 @@ Subjects:
  </div>
  
    <div id="Productivity&Effectiveness" class="BookCard">
-  <h1>The Almanack of Naval Ravikant</h1>
+  <h2>The Almanack of Naval Ravikant</h2>
   <h4>by Eric Jorgenson</h4>
   <h6>Subject: Productivity and Effectiveness</h6>
   <p>Lessons:
