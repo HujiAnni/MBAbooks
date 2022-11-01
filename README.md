@@ -40,7 +40,7 @@ Subjects:
  </div>
  
 <div id="Entrepreneurship" class="BookCard">
-  <h1>The Lean Startup</h1>
+  <h2>The Lean Startup</h2>
   <h4>by Eric Ries</h4>
   <h6>Subject: Entrepreneurship</h6>
   <p>Lessons:
@@ -55,7 +55,7 @@ Subjects:
  <br/>
  
  <div id="Accounting/Finance" class="BookCard">
-  <h1>Financial Intelligence</h1>
+  <h2>Financial Intelligence</h2>
   <h4>by Karen Berman, Joe Knight, John Case</h4>
   <h6>Subject: Accounting/Finance</h6>
   <p>Lessons:
@@ -67,7 +67,7 @@ Subjects:
  </div>
  
  <div id="Personal Finance" class="BookCard">
-  <h1>I Will Teach You to Be Rich</h1>
+  <h2>I Will Teach You to Be Rich</h2>
   <h4>by Ramit Sethi</h4>
   <h6>Subject: Personal Finance</h6>
   <p>Lessons:
@@ -82,7 +82,7 @@ Subjects:
  <br/>
  
  <div id="Marketing" class="BookCard">
-  <h1>The 22 Immutable Laws of Marketing</h1>
+  <h2>The 22 Immutable Laws of Marketing</h2>
   <h4>by Al Ries</h4>
   <h6>Subject: Marketing</h6>
   <p>Lessons:
@@ -97,7 +97,7 @@ Subjects:
  <br/>
  
  <div id="Operations" class="BookCard">
-  <h1>The Goal</h1>
+  <h2>The Goal</h2>
   <h4>by Eliyahu M. Goldratt</h4>
   <h6>Subject: Operations</h6>
   <p>Lessons:
@@ -126,7 +126,7 @@ Subjects:
  <br/>
  
  <div id="PublicSpeaking" class="BookCard">
-  <h1>Steal the Show</h1>
+  <h2>Steal the Show</h2>
   <h4>by Michael Port</h4>
   <h6>Subject: Public Speaking</h6>
   <p>Lessons:
@@ -141,7 +141,7 @@ Subjects:
  <br/>
  
  <div id="Negotiation" class="BookCard">
-  <h1>Never Split the Difference</h1>
+  <h2>Never Split the Difference</h2>
   <h4>by Chris Voss</h4>
   <h6>Subject: Negotiation</h6>
   <p>Lessons:
@@ -155,7 +155,7 @@ Subjects:
  </div>
  
  <div id="Networking" class="BookCard">
-  <h1>How to Be a Power Connector</h1>
+  <h2>How to Be a Power Connector</h2>
   <h4>by Judy Robinett</h4>
   <h6>Subject: Networking</h6>
   <p>Lessons:
@@ -171,7 +171,7 @@ Subjects:
  <br/>
  
  <div id="Leadership" class="BookCard">
-  <h1>Teams of Teams</h1>
+  <h2>Teams of Teams</h2>
   <h4>by General Stanley A. McChrystal</h4>
   <h6>Subject: Leadership</h6>
   <p>Lessons:
