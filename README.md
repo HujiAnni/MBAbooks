@@ -1,8 +1,8 @@
 # MBAbooks
 
-<a href="https://www.linkedin.com/in/benmeer?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA4tsN0BH3DejAt87HPZrM_wK0SgrnMluP4&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtXB%2BdZuhS5K6%2FSB2dNeGzQ%3D%3D"> Recommendations from Ben Meer</a>
+<a href="https://www.linkedin.com/in/benmeer?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA4tsN0BH3DejAt87HPZrM_wK0SgrnMluP4&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtXB%2BdZuhS5K6%2FSB2dNeGzQ%3D%3D" target="_blank"> Recommendations from Ben Meer</a>
 
-<a href="https://www.linkedin.com/posts/benmeer_how-to-give-yourself-a-personal-mba-in-6-activity-6992823765504036864-oEOv?utm_source=share&utm_medium=member_desktop)"> Original LinkedIn Post</a>
+<a href="https://www.linkedin.com/posts/benmeer_how-to-give-yourself-a-personal-mba-in-6-activity-6992823765504036864-oEOv?utm_source=share&utm_medium=member_desktop)" target="_blank"> Original LinkedIn Post</a>
 
 The 6-month curriculum is 12 books
 (Read 2 books every month)
@@ -52,6 +52,8 @@ Subjects:
   </p>
  </div>
  
+ <br/>
+ 
  <div id="Accounting/Finance" class="BookCard">
   <h1>Financial Intelligence</h1>
   <h4>by Karen Berman, Joe Knight, John Case</h4>
@@ -77,6 +79,8 @@ Subjects:
   </p>
  </div>
  
+ <br/>
+ 
  <div id="Marketing" class="BookCard">
   <h1>The 22 Immutable Laws of Marketing</h1>
   <h4>by Al Ries</h4>
@@ -90,6 +94,8 @@ Subjects:
   </p>
  </div>
  
+ <br/>
+ 
  <div id="Operations" class="BookCard">
   <h1>The Goal</h1>
   <h4>by Eliyahu M. Goldratt</h4>
@@ -101,6 +107,8 @@ Subjects:
     </ul>
   </p>
  </div>
+ 
+ <br/>
  
  <div id="SystemsThinking" class="BookCard">
   <h1>Thinking in Systems</h1>
@@ -115,7 +123,9 @@ Subjects:
   </p>
  </div>
  
-  <div id="PublicSpeaking" class="BookCard">
+ <br/>
+ 
+ <div id="PublicSpeaking" class="BookCard">
   <h1>Steal the Show</h1>
   <h4>by Michael Port</h4>
   <h6>Subject: Public Speaking</h6>
@@ -128,7 +138,9 @@ Subjects:
   </p>
  </div>
  
-  <div id="Negotiation" class="BookCard">
+ <br/>
+ 
+ <div id="Negotiation" class="BookCard">
   <h1>Never Split the Difference</h1>
   <h4>by Chris Voss</h4>
   <h6>Subject: Negotiation</h6>
@@ -156,7 +168,9 @@ Subjects:
   </p>
  </div>
  
-  <div id="Leadership" class="BookCard">
+ <br/>
+ 
+ <div id="Leadership" class="BookCard">
   <h1>Teams of Teams</h1>
   <h4>by General Stanley A. McChrystal</h4>
   <h6>Subject: Leadership</h6>
